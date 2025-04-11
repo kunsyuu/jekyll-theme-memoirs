@@ -18,7 +18,8 @@ $enable-rounded: false;
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:Sen;
+    // font-family:Sen;
+    font-family: "LXGW WenKai Screen", "Noto Sans CJK SC", "Microsoft JhengHei", PingFang, STHeiti, sans-serif, serif !important;
 }
 body {
     line-height:1.7;
