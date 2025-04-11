@@ -1,7 +1,7 @@
 # Site
 name: "Sail's Blog"
 title: "Sail"
-description: "Sail's Blog"
+description: "Sail's Blog. Welcome!"
 logo: 'assets/images/sail.png'
 favicon: 'assets/images/rudder.png'
 baseurl: ''
@@ -10,7 +10,7 @@ disqus: 'demowebsite'
 # mailchimp-list: ''
 include: ["_pages"]
 permalink: /posts/:title
-email: x@gmail.com
+email: jpneet01@yahoo.co.jp
 
 # Authors
 authors:
@@ -21,10 +21,10 @@ authors:
     email: x@proton.me
     web: https://x.com/
     twitter: https://x.com/
-    description: "宅男"
+    description: "宅男 / 刚刚当爹 / 游戏爱好者 / 动漫爱好者"
   smallsail:
-    name: Smaill Sail
-    display_name: Smaill Sail    
+    name: Small Sail
+    display_name: Small Sail    
     avatar: 'assets/images/smallsail.webp'
     email: x@gmail.com
     web: https://x.com/

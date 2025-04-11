@@ -1,13 +1,18 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: About Me
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/5.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+这是一个记录个人爱好的网站，欢迎你的到来。
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+这个博客只是写一些生活琐事，并没有什么技术知识干货可供参考，也没有任何价值观输出。
 
+我平时喜欢玩玩游戏，复古老游戏为主，喜欢ACG文化，看看动漫，看看书，养花种菜，等等。
+
+虽然已经当爹，但仍然是个宅男。随处可见的社会底层普通人，跳出三界外，不在五行中。心态积极乐观，人生短暂，吃喝玩乐即可。
+
+这个网站的访问速度可能比较慢，急性子慎入啊，但应该还在正常的忍受范围内吧。不妨让生活慢下来，无必要那么快的节奏。

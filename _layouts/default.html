@@ -7,8 +7,6 @@
 <link rel="icon" href="{{ site.baseurl }}/assets/images/rudder.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
-
-{% seo %}
     
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 
@@ -21,8 +19,7 @@
 </head>
 
 {% if jekyll.environment == 'production' %}
-<!-- change your GA id in _config.yml -->
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script> -->
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -35,10 +32,10 @@
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body>
 	<!-- defer loading of font and font awesome -->
-	<noscript id="deferred-styles">
-		<link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
+    <noscript id="deferred-styles">
+        <link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-	</noscript>
+    </noscript>
 
 <!-- Begin Sidebar Navigation
 ================================================== -->
@@ -54,8 +51,7 @@
         <h3>Navigation</h3>
         <li><a href="{{ site.baseurl }}/">Home</a></li>
         <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li>
-        <!-- <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li> -->      
+        <li><a href="{{ site.baseurl }}/authors">Authors</a></li>  
         <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
     </ul>   
 </nav>
@@ -117,7 +113,7 @@
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net
+                Jekyll & Memoirs
             </div>
         </div>
     </div>
@@ -127,8 +123,6 @@
 
 </div> <!-- /.site-content -->
 
-<!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
-================================================== -->
 
 <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
 
@@ -137,10 +131,10 @@
 {% if site.lazyimages == "enabled" %}
 <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
 {% endif %}
-
+<!--
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
-
+-->
 </body>
 </html>
