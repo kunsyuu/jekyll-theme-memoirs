@@ -3,7 +3,7 @@ layout: post
 title: 本地调试预览Jekyll网站
 categories: Life
 author: bigsail
-image: "https://images.unsplash.com/photo-1586339393565-32161f258eac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://ucarecdn.com/3356c9fd-fac7-4d3b-b3e8-8d75c2c1dcdd/-/preview/1000x666/"
 comments: false
 ---
 

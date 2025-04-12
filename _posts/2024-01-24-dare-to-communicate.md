@@ -4,7 +4,7 @@ title: 大胆沟通，不吃哑巴亏
 date: 2024-01-24 20:49:08
 categories: Life
 author: bigsail
-image: "https://images.unsplash.com/photo-1557844352-761f2565b576?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://ucarecdn.com/4196a66b-da9f-4dfd-88a2-23c347b306af/20240124.webp"
 comments: false
 ---
 今天去超市买菜后，回到家看了一眼小票，发现小票上有个18块钱的东西，但是我并没有买这个东西，实际也没有拿到这个价值18的东西。

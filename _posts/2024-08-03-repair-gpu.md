@@ -4,7 +4,7 @@ title: 显卡损坏
 date: 2024-08-03 12:18:52 +0800
 categories: Life
 author: bigsail
-image: "https://images.unsplash.com/photo-1730643727250-de84aeefea3e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://ucarecdn.com/998f0164-e911-4d36-bfa6-a081542f4de9/-/preview/1000x666/"
 comments: false
 ---
 在玩游戏时突然蓝屏，再启动也启动不了，我最先怀疑是硬盘坏了，毕竟是用了五年的QLC，就上网买了个新的硬盘换上，重装系统结果发现屏幕花屏，显卡安装驱动后画面比没驱动更加模糊，设备管理器中显示显卡错误代码43。

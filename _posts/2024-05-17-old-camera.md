@@ -4,7 +4,7 @@ title: 十几年前的卡片相机居然还有价值
 date: 2024-05-17 10:28:00 +0800
 categories: Life
 author: bigsail
-image: "https://images.unsplash.com/photo-1676305466455-f816fa6cb6a8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://ucarecdn.com/02731784-40b2-44d6-9b6b-5228e5524258/-/preview/720x720/"
 comments: false
 ---
 清理书架时在角落找到了一个佳能的卡片相机220hs，十几年前购买，用来在旅游时拍照用，因为那时候智能手机还没有像现在这样强大，很小巧的相机，比当时的手机拍照要好，但是现在早已被手机超越，我也已经很多年没有用它了。

@@ -4,7 +4,7 @@ title: AdGuard避免拖慢网速的设置
 date: 2024-04-18 14:07:00 +0800
 categories: Life
 author: bigsail
-image: "https://images.unsplash.com/photo-1609668102987-bb4185e20ba8?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://ucarecdn.com/5dbd4c7e-d2c3-458d-8724-373ba344d8d7/-/preview/1000x666/"
 comments: false
 ---
 由于B站的番剧删减的太严重，已经不再续费，而是使用盗版的App来看动漫。网络上有不少此类App，有个我觉得做的比较好的，但无奈广告太多。

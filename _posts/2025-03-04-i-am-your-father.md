@@ -4,7 +4,7 @@ title: 成为父亲
 date: 2025-03-04 11:22:00 +0800
 categories: Life
 author: bigsail
-image: "https://images.unsplash.com/photo-1652496404925-2f5d84f1f7d7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://ucarecdn.com/240b382e-bbbb-4e11-9474-a8f14d2d56a7/-/preview/1000x662/"
 comments: false
 ---
 老婆去年6月怀孕，在确认怀孕、确定了产检医院后，这大半年基本就是以怀孕这件事为中心了。

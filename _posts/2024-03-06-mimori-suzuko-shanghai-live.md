@@ -4,7 +4,7 @@ title: 上海看樱花及看三森铃子演唱会
 date: 2024-03-16 10:51:50 +0800
 categories: Life
 author: bigsail
-image: "https://images.unsplash.com/photo-1615980460296-3fff46484fb1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://ucarecdn.com/fc2392d2-2617-4f8e-ad32-5f8235e41dd6/-/preview/1000x666/"
 comments: false
 ---
 得知三森铃子即将在上海举办演唱会的时候，就一直在关注，早早的买了票，价格较高的票多包含了印刷签名和见送会，我只买了最低档399的，毕竟我只喜欢听歌和演唱会的过程。因为LoveLive的关系，直到现在依然还在关注这几位声优，不过时间过的真快啊，转眼都快10年了。这些人的人气也可以感受到在逐渐下降。
