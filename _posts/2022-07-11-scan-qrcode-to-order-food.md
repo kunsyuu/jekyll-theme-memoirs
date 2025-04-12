@@ -3,6 +3,9 @@ layout: post
 title: 扫码点餐
 date: 2022-07-11 16:09:57
 categories: Life
+author: bigsail
+image: "https://ucarecdn.com/994057a2-bf1b-4267-b636-81b2c9622acf/-/preview/959x720/"
+comments: false
 ---
 
 以前去日本玩时，看到很多餐饮店入口处都摆著个点餐的机器，只要选择想吃的东西，付款，拿到小票，坐下，服务员过来倒杯水并拿走小票一半，过一会端来你点的东西。全程不用说一句话，体验非常舒服。

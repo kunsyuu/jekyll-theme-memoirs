@@ -3,6 +3,9 @@ layout: post
 title: 难免感染
 date: 2022-12-30 15:09:02
 categories: Life
+author: bigsail
+image: "https://ucarecdn.com/c2a43863-2238-4a3d-bc31-5e3e888ce627/-/preview/1000x666/"
+comments: false
 ---
 动态清零政策毫无意外的彻底失败，再突然躺平式放开，全民感染。
 

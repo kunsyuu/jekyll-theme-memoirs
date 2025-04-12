@@ -3,8 +3,11 @@ layout: post
 title: 结婚了
 date: 2022-10-07 14:46:19
 categories: Life
+author: bigsail
+image: "https://ucarecdn.com/56ab3aed-6649-4491-9398-430afc4664ba/1501.webp"
+comments: false
 ---
-生活在不断的推动我们前行。
+生活在不断的推动我们前行，那就前进好了。
 
 ![](https://ucarecdn.com/56ab3aed-6649-4491-9398-430afc4664ba/1501.webp)
 

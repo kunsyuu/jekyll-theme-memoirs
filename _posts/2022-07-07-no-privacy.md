@@ -3,6 +3,9 @@ layout: post
 title: 没有隐私的时代只能卑微的自保
 date: 2022-07-07 12:03:49
 categories: Life
+author: bigsail
+image: "https://ucarecdn.com/ac6a5557-2efd-4c5b-834d-13ae4cabbe62/-/preview/1000x555/"
+comments: false
 ---
 
 十亿人信息泄露的事件会像没有发生一样渐渐被人忘记，即使知道的人也并没有很惊讶的感觉，只不过是个人信息的又一次泄露而已，我们早就经历过几百次，本来也早已没什么隐私可言了。

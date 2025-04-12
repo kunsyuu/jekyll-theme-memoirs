@@ -3,6 +3,9 @@ layout: post
 title: 为什么要写博客
 date: 2022-06-26 12:50:00
 categories: Life
+author: bigsail
+image: "https://ucarecdn.com/01c54207-2b8d-4c71-8378-038874df479f/-/preview/1000x662/"
+comments: false
 ---
 
 突然想起自己很久没有提笔写字了，也很久没有写过文章了。
