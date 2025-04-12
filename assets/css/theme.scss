@@ -685,7 +685,7 @@ body.active-side {
         display: flex;
         left: unset;
         z-index:0;
-        padding: 0 0 0 100px;
+        display: none; //wrong location in mobile
     }
     .share {
         display: flex;
