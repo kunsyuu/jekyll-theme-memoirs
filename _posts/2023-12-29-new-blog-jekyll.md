@@ -5,6 +5,7 @@ categories: Life
 author: bigsail
 image: "https://ucarecdn.com/3356c9fd-fac7-4d3b-b3e8-8d75c2c1dcdd/-/preview/1000x666/"
 comments: false
+toc: true
 ---
 
 学习了一下使用Jekyll。
@@ -129,4 +130,12 @@ taskkill /PID <进程号> /F
 检查防火墙是否允许 jekyll serve 访问网络，或在浏览器中手动刷新。
 
 #### 10. 关闭本地服务器  
-在命令行窗口按 Ctrl + C 终止进程。
+在命令行窗口按 Ctrl + C 终止进程。  
+
+#### 11. 批处理快速启动本地服务器
+如果不想每次本地预览的时候都打开cmd、进入jekyll目录、输入启动指令，可以创建一个.bat批处理文件，运行一下就自动运行这几步。
+```bash
+@echo off
+cd /d "C:\path\to\your\jekyll-project"
+jekyll s
+```  
