@@ -109,9 +109,11 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
+            <div class="col-12 order-md-first text-center text-md-left mb-3">
+                <a href="{{ site.baseurl }}/">Home</a>  /   <a href="{{ site.baseurl }}/about">About</a>    /   <a href="{{ site.baseurl }}/contact">Contact</a>    /   <a href="/feed.xml">RSS Feed</a>
+            </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }}. 
-                <a href="/feed.xml">RSS Feed</a>
             </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-right">    
                 Powered by Jekyll & Memoirs
