@@ -4,7 +4,7 @@ title: 所谓“正版”
 date: 2022-09-04 10:44:54
 categories: Life
 author: bigsail
-image: "https://s21.ax1x.com/2025/04/14/pEWrmSU.webp"
+image: "https://ucarecdn.com/75ae2730-45e2-43eb-a9f7-24dbf76b781e/20220904.webp"
 comments: false
 ---
 

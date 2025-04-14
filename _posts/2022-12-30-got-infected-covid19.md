@@ -4,7 +4,7 @@ title: 难免感染covid-19
 date: 2022-12-30 15:09:02
 categories: Life
 author: bigsail
-image: "https://s21.ax1x.com/2025/04/14/pEWUzzd.webp"
+image: "https://ucarecdn.com/cfd9adb5-fa25-48fa-87cf-8c94981d7352/20221230.webp"
 comments: false
 ---
 动态清零政策毫无意外的彻底失败，再突然躺平式放开，全民感染。

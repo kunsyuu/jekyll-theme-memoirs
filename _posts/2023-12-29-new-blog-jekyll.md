@@ -3,14 +3,12 @@ layout: post
 title: 本地调试预览Jekyll网站
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/3356c9fd-fac7-4d3b-b3e8-8d75c2c1dcdd/-/preview/1000x666/"
+image: "https://ucarecdn.com/eafd59f2-7df5-424e-abbf-4d7d9ec4934f/20231229.webp"
 comments: false
 toc: true
 ---
 
-学习了一下使用Jekyll。
-
-之前一直使用Hexo，但是Hexo的本地文件如果丢失，很可能就不能再复原样式了。
+学习了一下使用Jekyll。之前一直使用Hexo，但是Hexo的本地文件如果丢失，很可能就不能再复原样式了。
 
 而Jekyll所有的文件都在Github上，不用担心本地文件丢失的问题，而且新增文章时也仅需要提交一个md文件就可以自动部署了。使用Github Desktop依然可以很方便的提交。
 

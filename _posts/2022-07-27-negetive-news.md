@@ -4,7 +4,7 @@ title: 勿沉迷于负面新闻
 date: 2022-07-27 22:45:46
 categories: Life
 author: bigsail
-image: "https://s21.ax1x.com/2025/04/14/pEWNXgs.webp"
+image: "https://ucarecdn.com/8ae742ab-d6dd-4703-b6b9-f0eb349981de/20220727.webp"
 comments: false
 ---
 

@@ -4,7 +4,7 @@ title: 重温上古卷轴5天际
 date: 2023-02-04 13:36:50
 categories: Game
 author: bigsail
-image: "https://ucarecdn.com/d42e0bab-f536-431d-b523-01f91d8512c0/-/preview/1000x665/"
+image: "https://ucarecdn.com/5429b54a-7d1e-489b-9b25-fde9899ad282/20230204.webp"
 comments: false
 
 ---

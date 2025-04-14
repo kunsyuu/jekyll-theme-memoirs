@@ -4,7 +4,7 @@ title: 运营商请不要给中老年人随意增加付费业务
 date: 2024-01-01 18:19:27
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/71660b34-f76e-4551-9354-c8d586d04332/-/preview/720x720/"
+image: "https://ucarecdn.com/5938eb6e-73d4-4109-ad67-51e009e08531/20240101.webp"
 comments: false
 ---
 元旦回家后，我妈向我说感觉最近手机话费用的特别快，没用多久就提示需要充值了。
