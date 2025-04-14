@@ -4,7 +4,7 @@ title: 没有隐私的时代只能卑微的自保
 date: 2022-07-07 12:03:49
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/ac6a5557-2efd-4c5b-834d-13ae4cabbe62/-/preview/1000x555/"
+image: "https://s21.ax1x.com/2025/04/14/pEWNDnx.webp"
 comments: false
 ---
 

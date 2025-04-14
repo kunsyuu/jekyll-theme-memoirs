@@ -4,7 +4,7 @@ title: 新生儿医保很重要
 date: 2025-04-03 21:55:00 +0800
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/928a5b51-32af-48c7-ad95-4eed1a461708/-/preview/958x720/"
+image: "https://s21.ax1x.com/2025/04/14/pEW8qZF.webp"
 comments: false
 ---
 小孩子在出生后就直接住进了医院的新生儿科，我自己也就只看到了一眼，长辈们都没看到，过几天推去其他科室进行检查时，通知我们家人可以陪同看着，孩子奶奶也才终于看到了孙子第一面。

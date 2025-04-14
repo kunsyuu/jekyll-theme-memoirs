@@ -4,7 +4,7 @@ title: 迟到了四年的房屋漏水事故
 date: 2022-10-09 14:36:59
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/16498e39-cf08-40f2-81e5-dd284f565d4b/-/preview/1000x667/"
+image: "https://s21.ax1x.com/2025/04/14/pEWNb4g.webp"
 comments: false
 ---
 五六月份时发现卫生间门外上方有一点点发霉的痕迹，此时恰好有一段回南天，空气非常潮湿，当时有点奇怪，因为前几年虽然也有回南天但从来没有出现室内发霉的现象，但我仍然觉得应该是因为今年潮湿的湿度更大，以及养猫后经常关门影响了通风所导致的。买了一瓶除霉剂擦一擦把霉擦掉了。

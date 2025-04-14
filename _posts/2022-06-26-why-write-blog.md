@@ -4,7 +4,7 @@ title: 为什么要写博客
 date: 2022-06-26 12:50:00
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/01c54207-2b8d-4c71-8378-038874df479f/-/preview/1000x662/"
+image: "https://s21.ax1x.com/2025/04/14/pEWNrB6.webp"
 comments: false
 ---
 

@@ -4,7 +4,7 @@ title: Switch上准备通关的游戏
 date: 2025-04-13 15:00:00 +0800
 categories: Gmae
 author: bigsail
-image: "https://ucarecdn.com/d0871613-7fea-4748-a743-1c4e86c1bc41/-/preview/1000x666/"
+image: "https://s21.ax1x.com/2025/04/14/pEW8vGR.webp"
 comments: false
 ---
 Switch2已经开始宣传了，过一段时间就会开始发售，价格看起来不便宜啊。我感觉没必要第一时间去追最新的游戏机，老游戏机也没有“过时”这种说法，只要这个游戏机平台上仍然有想玩的游戏，那就一直不会过时。

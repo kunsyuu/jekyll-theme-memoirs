@@ -4,7 +4,7 @@ title: 扫码点餐
 date: 2022-07-11 16:09:57
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/994057a2-bf1b-4267-b636-81b2c9622acf/-/preview/959x720/"
+image: "https://s21.ax1x.com/2025/04/14/pEWN0j1.webp"
 comments: false
 ---
 
