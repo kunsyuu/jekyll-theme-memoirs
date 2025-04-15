@@ -7,7 +7,7 @@ author: bigsail
 image: "https://ucarecdn.com/834367c4-5acb-4f67-9b3e-1305dd64166e/20241019.webp"
 comments: false
 ---
-嫉妒                                                                     
+嫉妒，令人丑陋，令人猥琐，令人可笑，令人无法直视自我。
 
 不甘
 
