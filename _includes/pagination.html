@@ -2,15 +2,15 @@
 <div class="pagination">
   <!-- first page -->
   {% if paginator.page == 1 %}
-    <span class="ml-1 mr-1">首页</span>
+    <span class="ml-1 mr-1">&laquo;</span>
   {% else %}
-    <a class="ml-1 mr-1" href="{{ site.baseurl | append: '/' | replace: '//', '/' }}">首页</a>
+    <a class="ml-1 mr-1" href="{{ site.baseurl | append: '/' | replace: '//', '/' }}">&laquo;</a>
   {% endif %}
 
   {% if paginator.previous_page %}
-    <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; </a>
+    <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lsaquo; </a>
   {% else %}
-    <span>&laquo; </span>
+    <span>&lsaquo; </span>
   {% endif %}
 
   {% assign from = paginator.page | minus: 3 | at_least: 1 %}
@@ -27,16 +27,16 @@
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> &raquo;</a>
+    <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> &rsaquo;</a>
   {% else %}
-    <span> &raquo;</span>
+    <span> &rsaquo;</span>
   {% endif %}
 
   <!-- last page -->
   {% if paginator.page == paginator.total_pages %}
-    <span class="ml-1 mr-1">末页</span>
+    <span class="ml-1 mr-1">&raquo;</span>
   {% else %}
-    <a class="ml-1 mr-1" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">末页</a>
+    <a class="ml-1 mr-1" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">&raquo;</a>
   {% endif %}
 </div>
 {% endif %}
