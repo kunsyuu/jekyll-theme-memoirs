@@ -1,5 +1,12 @@
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
+  <!-- first page -->
+  {% if paginator.page == 1 %}
+    <span class="ml-1 mr-1">首页</span>
+  {% else %}
+    <a class="ml-1 mr-1" href="{{ site.baseurl | append: '/' | replace: '//', '/' }}">首页</a>
+  {% endif %}
+
   {% if paginator.previous_page %}
     <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; </a>
   {% else %}
@@ -23,6 +30,13 @@
     <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> &raquo;</a>
   {% else %}
     <span> &raquo;</span>
+  {% endif %}
+
+  <!-- last page -->
+  {% if paginator.page == paginator.total_pages %}
+    <span class="ml-1 mr-1">末页</span>
+  {% else %}
+    <a class="ml-1 mr-1" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">末页</a>
   {% endif %}
 </div>
 {% endif %}
