@@ -4,7 +4,7 @@ title: 连看了两场演唱会
 date: 2023-12-20 22:35:39
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/58781ff2-6a52-4cce-af9d-ea2dd8b07070/20231220.webp"
+image: "https://pic1.imgdb.cn/item/680b21da58cb8da5c8cab05d.webp"
 comments: false
 ---
 今年到处都有各种各样的演唱会，就和老婆选了两个想看的歌手，去看了两场。

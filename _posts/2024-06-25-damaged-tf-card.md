@@ -4,7 +4,7 @@ title: 首次遇到TF卡损坏
 date: 2024-06-25 11:20:00 +0800
 categories: Game
 author: bigsail
-image: "https://ucarecdn.com/fd56cb28-0be4-4803-baae-828064817b49/20240625.webp"
+image: "https://pic1.imgdb.cn/item/680b1f8858cb8da5c8caa3ee.webp"
 comments: false
 ---
 在我的印象里，TF卡一直都是一种很耐用的东西，各种设备用了很多，也用了很久了，从来没有遇到有卡损坏的情况。

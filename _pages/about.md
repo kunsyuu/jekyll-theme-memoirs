@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about
 comments: false
-image: "https://ucarecdn.com/3d6a463f-676e-48a0-be05-62093fe8c7c4/-/preview/1000x666/"
+image: "https://pic1.imgdb.cn/item/680b24ff58cb8da5c8cab22b.webp"
 imageshadow: true
 ---
 

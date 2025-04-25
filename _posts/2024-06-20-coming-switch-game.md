@@ -4,7 +4,7 @@ title: switch即将发售的游戏依然值得期待
 date: 2024-06-20 20:15:00 +0800
 categories: Game
 author: bigsail
-image: "https://ucarecdn.com/eb39b687-6023-4f00-b4ff-8cc5363a6b7e/20240620.webp"
+image: "https://pic1.imgdb.cn/item/6809e6a358cb8da5c8c86631.webp"
 comments: false
 ---
 - 路易吉鬼屋2 6月27日

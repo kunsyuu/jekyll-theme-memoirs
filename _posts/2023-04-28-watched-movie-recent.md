@@ -4,7 +4,7 @@ title: 最近看的电影
 date: 2023-04-28 19:11:25
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/87b04282-1837-43e0-b343-3aa4b7fb8224/20230428.webp"
+image: "https://pic1.imgdb.cn/item/680b210858cb8da5c8caac9c.webp"
 comments: false
 ---
 ### 铃芽之旅

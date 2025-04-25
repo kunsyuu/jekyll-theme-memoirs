@@ -4,7 +4,7 @@ title: 去香港看乃木坂46演唱会
 date: 2024-07-01 18:59:40 +0800
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/96765d3f-d4ad-48da-a817-7a44c908a686/20240701.webp"
+image: "https://pic1.imgdb.cn/item/680b18b258cb8da5c8ca81f6.webp"
 comments: false
 ---
 因为去香港的签注快到期了还没用，所以就找个理由去了一趟香港。

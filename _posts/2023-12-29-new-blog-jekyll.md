@@ -3,7 +3,7 @@ layout: post
 title: 本地调试预览Jekyll网站
 categories: Life
 author: bigsail
-image: "https://ucarecdn.com/eafd59f2-7df5-424e-abbf-4d7d9ec4934f/20231229.webp"
+image: "https://pic1.imgdb.cn/item/680b1f2b58cb8da5c8caa17e.webp"
 comments: false
 toc: true
 ---
