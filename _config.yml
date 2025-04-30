@@ -1,7 +1,7 @@
 # Site
 name: "Sail's Blog"
 title: "Sail's Blog"
-description: "Sail's Blog. Welcome!"
+description: "Here is Sail's Blog. Welcome!"
 logo: 'assets/images/sail.png'
 favicon: 'assets/images/rudder.png'
 baseurl: ''
@@ -21,7 +21,7 @@ authors:
     email: x@proton.me
     web: https://x.com/
     twitter: https://x.com/
-    description: "宅男 / 刚刚当爹 / 游戏爱好者 / 动漫爱好者"
+    description: "宅男 / 社恐 / 刚刚当爹 / 游戏爱好者 / 动漫爱好者"
   smallsail:
     name: Small Sail
     display_name: Small Sail    
