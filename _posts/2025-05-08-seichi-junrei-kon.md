@@ -4,7 +4,7 @@ title: 圣地巡礼之KON轻音少女
 date: 2025-05-08 22:20:00 +0800
 categories: Life
 author: bigsail
-image: "https://img.ksmoe.eu.org/v2/H19mjrY.png"
+image: "https://pic1.imgdb.cn/item/681cc85758cb8da5c8e66eaf.webp"
 comments: false
 ---
 轻音少女是给我留下非常深刻印象的一部动漫，好像就是从这部动漫起让我意识到原来动漫可以如此优秀，人物感情可以如此细腻，日常的故事可以如此感人。后来看到一个词叫做“入宅作”，那这部动漫应该就是我的入宅作了。
@@ -15,46 +15,46 @@ comments: false
 
 置身于动漫中的场景真的是有一种神奇的感觉。
 
-![IMG_6212.png](https://img.ksmoe.eu.org/v2/hY5BLDA.png)
+![IMG_6212.jpg](https://img.ksmoe.eu.org/v2/gHkBRq9.jpeg)
 
-![IMG_6216.png](https://img.ksmoe.eu.org/v2/aSTPlWv.png)
+![IMG_6216.jpg](https://img.ksmoe.eu.org/v2/6jTu9y9.jpeg)
 
-![IMG_6217.png](https://img.ksmoe.eu.org/v2/IxlSXwL.png)
+![IMG_6217.jpg](https://img.ksmoe.eu.org/v2/hbmtU2O.jpeg)
 
-![IMG_6221.png](https://img.ksmoe.eu.org/v2/DUxoTYQ.png)
+![IMG_6221.jpg](https://img.ksmoe.eu.org/v2/P9FvAgR.jpeg)
 
-![IMG_6222.png](https://img.ksmoe.eu.org/v2/voCfJre.png)
+![IMG_6222.jpg](https://img.ksmoe.eu.org/v2/ljby06u.jpeg)
 
-![IMG_6219.png](https://img.ksmoe.eu.org/v2/ERYgSA3.png)
+![IMG_6219.jpg](https://img.ksmoe.eu.org/v2/zd1Ybvj.jpeg)
 
-![IMG_6232.png](https://img.ksmoe.eu.org/v2/hWEupCB.png)
+![IMG_6232.jpg](https://img.ksmoe.eu.org/v2/UtyVKke.jpeg)
 
-![IMG_6237.png](https://img.ksmoe.eu.org/v2/3RCCUag.png)
+![IMG_6237.jpg](https://img.ksmoe.eu.org/v2/OlS1fD4.jpeg)
 
-![IMG_6240.png](https://img.ksmoe.eu.org/v2/AlAjHF8.png)
+![IMG_6240.jpg](https://img.ksmoe.eu.org/v2/mhsqmeB.jpeg)
 
-![IMG_6243.png](https://img.ksmoe.eu.org/v2/KCYTFm2.png)
+![IMG_6243.jpg](https://img.ksmoe.eu.org/v2/RLlq4Ok.jpeg)
 
-![IMG_6247.png](https://img.ksmoe.eu.org/v2/Hclhvdk.png)
+![IMG_6247.jpg](https://img.ksmoe.eu.org/v2/91qRUG0.jpeg)
 
-![IMG_6252.png](https://img.ksmoe.eu.org/v2/Zf8NNRy.png)
+![IMG_6252.jpg](https://img.ksmoe.eu.org/v2/ZyoITPG.jpeg)
 
-![IMG_6255.png](https://img.ksmoe.eu.org/v2/ncXKltp.png)
+![IMG_6255.jpg](https://img.ksmoe.eu.org/v2/MQuzbJn.jpeg)
 
-![IMG_6267.png](https://img.ksmoe.eu.org/v2/u1gtJQ6.png)
+![IMG_6267.jpg](https://img.ksmoe.eu.org/v2/k5hWr8D.jpeg)
 
-![IMG_6269.png](https://img.ksmoe.eu.org/v2/Z9v6Z1h.png)
+![IMG_6269.jpg](https://img.ksmoe.eu.org/v2/1qH4Wkh.jpeg)
 
-![IMG_6270.png](https://img.ksmoe.eu.org/v2/7tHY8aP.png)
+![IMG_6270.jpg](https://img.ksmoe.eu.org/v2/plIR2yL.jpeg)
 
-![IMG_6275.png](https://img.ksmoe.eu.org/v2/JGFE6Z5.png)
+![IMG_6275.jpg](https://img.ksmoe.eu.org/v2/vLUKCmM.jpeg)
 
-![IMG_6278.png](https://img.ksmoe.eu.org/v2/Uob3JhX.png)
+![IMG_6278.jpg](https://img.ksmoe.eu.org/v2/LA1P0JF.jpeg)
 
-![IMG_6282.png](https://img.ksmoe.eu.org/v2/r8OJMfv.png)
+![IMG_6282.jpg](https://img.ksmoe.eu.org/v2/inNCmAZ.jpeg)
 
 最后是轻音部的目标：武道馆！
 
-![IMG_6091.png](https://img.ksmoe.eu.org/v2/R9fowzu.png)
+![IMG_6091.jpg](https://img.ksmoe.eu.org/v2/l6126VC.jpeg)
 
-![IMG_6092.png](https://img.ksmoe.eu.org/v2/P1GJdeg.png)
+![IMG_6092.jpg](https://img.ksmoe.eu.org/v2/WIZ81Fw.jpeg)
