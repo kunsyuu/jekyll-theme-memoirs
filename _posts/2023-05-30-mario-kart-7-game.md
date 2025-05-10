@@ -13,7 +13,11 @@ comments: false
 
 希望任天堂能够继续保持运行3DS的联机服务器，虽然已经没有利润了。这的确是一个很好玩的赛车游戏，相比于那些画质非常真实的赛车类游戏，以及Switch上最新的马里奥赛车8，我还是更喜欢马里奥赛车7。
 
-![](https://ucarecdn.com/708a6d1f-3f4c-467c-909d-8f18b042e616/3101.webp)
+<!--![](https://ucarecdn.com/708a6d1f-3f4c-467c-909d-8f18b042e616/3101.webp)
 ![](https://ucarecdn.com/c7e9d2fb-d78e-4351-b858-ce8ce124878f/3102.webp)
 ![](https://ucarecdn.com/89ceaf77-5eca-44ae-aec4-8ab3956c2729/3103.webp)
-![](https://ucarecdn.com/bb14a06d-81d4-42be-b5b2-cc9a5f2489d6/3104.webp)
+![](https://ucarecdn.com/bb14a06d-81d4-42be-b5b2-cc9a5f2489d6/3104.webp)-->
+![3101.jpg](https://img.ksmoe.eu.org/v2/PohFJEd.jpeg)
+![3102.jpg](https://img.ksmoe.eu.org/v2/0oowV9g.jpeg)
+![3103.jpg](https://img.ksmoe.eu.org/v2/aPoNswn.jpeg)
+![3104.jpg](https://img.ksmoe.eu.org/v2/wWaXfZ0.jpeg)

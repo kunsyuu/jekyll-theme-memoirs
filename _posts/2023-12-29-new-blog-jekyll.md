@@ -30,66 +30,89 @@ toc: true
     - 安装完成后，会弹出黑色终端窗口，按提示安装 MSYS2 工具链（按回车键继续，直到完成，这一步需要联网，国内网络可能会失败，需要开启Tun模式）.  
 
 #### 2. 验证 Ruby 安装
+
 打开 命令提示符（CMD） 或 PowerShell，运行：
+
 ```bash
 ruby -v
 gem -v
 ```
+
 如果返回版本号（如 ruby 3.0.0 和 gem 3.3.0），说明安装成功。
 
 #### 3. 安装 Jekyll 和 Bundler
+
 在命令行中运行：
+
 ```bash
 gem install jekyll bundler
 ```
+
 - 如果提示权限问题，可以尝试：
+
 ```bash
 gem install jekyll bundler --user-install
 ```
+
 - 安装完成后，验证是否成功：
+
 ```bash
 jekyll -v
 ```
 
 #### 4. 创建或进入 Jekyll 项目
+
 - 新建项目（可选）
+
 ```bash
 jekyll new my-site
 cd my-site
 ```
+
 - 已有项目  
 直接进入项目根目录：
+
 ```bash
 cd C:\path\to\your\jekyll-project
 ```
 
 #### 5. 安装项目依赖  
+
 在项目目录下运行：
+
 ```bash
 bundle install
 ```
+
 （此命令会根据项目中的 Gemfile 安装依赖库）
 
 #### 6. 启动本地服务器
+
 运行以下命令：
+
 ```bash
 bundle exec jekyll serve --livereload
 ```
+
 或者
+
 ```bash
 jekyll s
 ```
+
 - 参数说明：
     - --livereload：自动刷新浏览器（修改文件后无需手动刷新）。
     - --port 4001：如果默认端口 4000 被占用，可指定其他端口。
     - --host 0.0.0.0：允许同一局域网内的其他设备访问（如手机预览）。
 - 成功提示：
+
 ```bash
 Server address: http://localhost:4000
 Server running... press ctrl-c to stop.
 ```
 
 #### 7. 访问本地预览
+
 打开浏览器，输入 http://localhost:4000（如果修改了端口，替换为实际端口号）。
 
 #### 8. 调试技巧（Windows 专属注意事项）
@@ -109,6 +132,7 @@ Server running... press ctrl-c to stop.
 
 - 报错：cannot load such file -- webrick (LoadError)
 运行以下命令安装缺失的库：
+
 ```bash
 bundle add webrick
 ```
@@ -119,6 +143,7 @@ bundle add webrick
 
 - 端口被占用  
 运行以下命令终止占用 4000 端口的进程：
+
 ```bash
 netstat -ano | findstr :4000
 taskkill /PID <进程号> /F
@@ -128,10 +153,13 @@ taskkill /PID <进程号> /F
 检查防火墙是否允许 jekyll serve 访问网络，或在浏览器中手动刷新。
 
 #### 10. 关闭本地服务器  
+
 在命令行窗口按 Ctrl + C 终止进程。  
 
 #### 11. 批处理快速启动本地服务器
+
 如果不想每次本地预览的时候都打开cmd、进入jekyll目录、输入启动指令，可以创建一个.bat批处理文件，运行一下就自动运行这几步。
+
 ```bash
 @echo off
 cd /d "C:\path\to\your\jekyll-project"

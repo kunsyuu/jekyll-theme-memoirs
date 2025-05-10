@@ -15,10 +15,12 @@ comments: false
 
 不过在软件限制上却更甚于之前的手机了，以前只是没有Google相关服务，还是能找到办法安装启用的，而且安装什么apk也不会强行阻止不给安装。现在倒好，我在Github上下载了v2rayng安装包之后，居然阻止安装，还说这个app“曾被较多用户投诉其带有风险行为”，去你的吧，有没有风险我能不知道吗，我自甘风险还不允许了？
 
-![](https://ucarecdn.com/f8e5fefc-4d52-4e5b-a96e-0c582721b603/3401.webp)
+<!--![](https://ucarecdn.com/f8e5fefc-4d52-4e5b-a96e-0c582721b603/3401.webp)-->
+![3401.jpg](https://img.ksmoe.eu.org/v2/sc6YD3F.jpeg)
 
 甚至就算不安装，把apk文件放在手机里面也不行，我没启用的所谓“手机管家”突然弹出提示说是“风险安装包”，得清除掉。
 
-![](https://ucarecdn.com/a51175d8-4c55-4a70-b3f1-f3808171c647/3402.webp)
+<!--![](https://ucarecdn.com/a51175d8-4c55-4a70-b3f1-f3808171c647/3402.webp)-->
+![3402.jpg](https://img.ksmoe.eu.org/v2/SzhDg5d.jpeg)
 
 真的是管的越来越宽了。
