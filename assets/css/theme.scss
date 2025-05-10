@@ -32,10 +32,6 @@ img {
     max-width:100%;
     height:auto;
 }
-a img{
-    border-radius: 12px;      /* 圆角大小 */
-    overflow: hidden;        /* 裁剪溢出部分 */
-}
 p img, .entry-featured-image img {
     border-radius: 12px;      /* 圆角大小 */
     overflow: hidden;        /* 裁剪溢出部分 */
@@ -251,6 +247,8 @@ img, img:hover {
     padding: 0;
     display: flex;
     align-items:center;
+    border-radius: 12px;      /* 圆角大小 */
+    overflow: hidden;  /* 关键：裁剪超出圆角的内容 */
     .author-thumb {
         width:40px;
         border-radius:50%;
