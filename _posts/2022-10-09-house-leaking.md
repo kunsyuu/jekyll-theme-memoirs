@@ -21,6 +21,7 @@ comments: false
 <!--![](https://ucarecdn.com/668a2b70-244e-4a35-9fb8-b9ff7a01c79d/1602.webp)
 ![](https://ucarecdn.com/5613263b-e677-493d-a8dd-54d60d91131b/1603.webp)-->
 ![1602.jpg](https://img.ksmoe.eu.org/v2/ojZBU5B.jpeg)
+
 ![1603.jpg](https://img.ksmoe.eu.org/v2/Q4u8vzZ.jpeg)
 
 搞清楚漏水的原因那就可以修了，由于空间狭窄自己试了几天都没搞定，只好请了专门修水管的师傅上门，将有孔的一段水管剪掉，热熔接口，再重新用一段水管连接。终于修好了漏水，墙壁也逐渐干燥了。

@@ -21,6 +21,7 @@ comments: false
 <!--![](https://ucarecdn.com/96117a0c-7dfb-49f7-b6f1-e8557e9310f8/1302.webp)
 ![](https://ucarecdn.com/a4bd6d12-f5e8-4ccd-9328-7480930b8ecb/1303.webp)-->
 ![1302.jpg](https://img.ksmoe.eu.org/v2/aswzFBq.jpeg)
+
 ![1303.jpg](https://img.ksmoe.eu.org/v2/So9UUR8.jpeg)
 
 贴上之后，猫仔打不开门了，板下面留了一点缝隙以方便手指伸进去开门，但猫是无法精准的伸爪子进去开门的。
