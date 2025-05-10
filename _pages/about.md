@@ -15,6 +15,8 @@ imageshadow: true
 
 如有任何需要，欢迎在Contact页面给我留言。
 
+或者直接发送邮件到<kunshuu@proton.me>
+
 ### #关于我
 
 我平时喜欢玩玩游戏，看看动漫，看看书，养花种菜，等等。
