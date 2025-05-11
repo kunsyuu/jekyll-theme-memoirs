@@ -5,7 +5,6 @@ date: 2024-01-01 18:19:27
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b1f2b58cb8da5c8caa17d.webp"
-comments: false
 ---
 元旦回家后，我妈向我说感觉最近手机话费用的特别快，没用多久就提示需要充值了。
 

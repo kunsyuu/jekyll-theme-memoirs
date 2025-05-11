@@ -5,7 +5,6 @@ date: 2022-12-30 15:09:02
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b22c058cb8da5c8cab0f1.webp"
-comments: false
 ---
 动态清零政策毫无意外的彻底失败，再突然躺平式放开，全民感染。
 

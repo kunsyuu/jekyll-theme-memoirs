@@ -5,7 +5,6 @@ date: 2025-04-28 13:28:00 +0800
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680f129f58cb8da5c8d18ece.webp"
-comments: false
 ---
 孩子已经两个月大了，出院一个多月，这一个多月最辛苦的应该就是我的母亲——即孩子的奶奶了。
 

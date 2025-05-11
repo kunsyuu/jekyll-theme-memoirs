@@ -5,7 +5,6 @@ date: 2025-05-08 22:01:00 +0800
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/681cc85858cb8da5c8e66eb0.webp"
-comments: false
 ---
 秒速五厘米这部动漫圣地巡礼的地方应该挺多的，不过我并没有找的太细致，只去了参宫桥公园附近。
 

@@ -5,7 +5,6 @@ date: 2022-06-26 12:50:00
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b240f58cb8da5c8cab1a8.webp"
-comments: false
 ---
 
 突然想起自己很久没有提笔写字了，也很久没有写过文章了。

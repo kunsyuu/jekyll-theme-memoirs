@@ -4,7 +4,7 @@ title: 本地调试预览Jekyll网站
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b1f2b58cb8da5c8caa17e.webp"
-comments: false
+comments: true
 toc: true
 ---
 

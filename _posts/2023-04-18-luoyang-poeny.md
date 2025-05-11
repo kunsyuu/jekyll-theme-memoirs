@@ -5,7 +5,6 @@ date: 2023-04-18 14:23:35
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b210858cb8da5c8caaca0.webp"
-comments: false
 ---
 洛阳是在历史上非常著名的城市，不过我之前从来没有去过。恰逢牡丹盛开的季节，且四月份气候舒适，很适合出游，便决定去一次洛阳赏花。
 

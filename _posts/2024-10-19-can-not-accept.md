@@ -5,7 +5,6 @@ date: 2024-10-19 15:30:00 +0800
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b18b258cb8da5c8ca81f4.webp"
-comments: false
 ---
 嫉妒，令人丑陋，令人猥琐，令人可笑，令人无法直视自我。
 

@@ -5,7 +5,6 @@ date: 2024-01-24 20:49:08
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b1f2b58cb8da5c8caa182.webp"
-comments: false
 ---
 今天去超市买菜后，回到家看了一眼小票，发现小票上有个18块钱的东西，但是我并没有买这个东西，实际也没有拿到这个价值18的东西。
 

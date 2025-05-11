@@ -5,7 +5,6 @@ date: 2023-12-20 22:35:39
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b21da58cb8da5c8cab05d.webp"
-comments: false
 ---
 今年到处都有各种各样的演唱会，就和老婆选了两个想看的歌手，去看了两场。
 

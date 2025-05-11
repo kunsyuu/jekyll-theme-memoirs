@@ -5,7 +5,6 @@ date: 2024-03-16 10:51:50 +0800
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b1f2b58cb8da5c8caa180.webp"
-comments: false
 ---
 得知三森铃子即将在上海举办演唱会的时候，就一直在关注，早早的买了票，价格较高的票多包含了印刷签名和见送会，我只买了最低档399的，毕竟我只喜欢听歌和演唱会的过程。因为LoveLive的关系，直到现在依然还在关注这几位声优，不过时间过的真快啊，转眼都快10年了。这些人的人气也可以感受到在逐渐下降。
 

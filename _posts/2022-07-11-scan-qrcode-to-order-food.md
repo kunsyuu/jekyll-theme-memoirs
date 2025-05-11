@@ -5,7 +5,6 @@ date: 2022-07-11 16:09:57
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b23ba58cb8da5c8cab180.webp"
-comments: false
 ---
 
 以前去日本玩时，看到很多餐饮店入口处都摆著个点餐的机器，只要选择想吃的东西，付款，拿到小票，坐下，服务员过来倒杯水并拿走小票一半，过一会端来你点的东西。全程不用说一句话，体验非常舒服。

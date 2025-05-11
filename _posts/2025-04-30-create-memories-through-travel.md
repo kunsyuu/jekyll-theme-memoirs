@@ -5,7 +5,6 @@ date: 2025-04-30 15:02:00 +0800
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/6811d0fb58cb8da5c8d546d2.webp"
-comments: false
 ---
 我觉得人活着应该多制造一些回忆，但是普通人生活平淡，不会有太多精彩的故事。用旅游这种平凡的事情为平淡的生活增加一点值得回忆的内容，对于普通人来说是一个挺好的制造回忆的方式。
 

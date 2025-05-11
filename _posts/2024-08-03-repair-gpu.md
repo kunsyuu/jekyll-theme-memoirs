@@ -5,7 +5,6 @@ date: 2024-08-03 12:18:52 +0800
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b18b258cb8da5c8ca81f1.webp"
-comments: false
 ---
 在玩游戏时突然蓝屏，再启动也启动不了，我最先怀疑是硬盘坏了，毕竟是用了五年的QLC，就上网买了个新的硬盘换上，重装系统结果发现屏幕花屏，显卡安装驱动后画面比没驱动更加模糊，设备管理器中显示显卡错误代码43。
 

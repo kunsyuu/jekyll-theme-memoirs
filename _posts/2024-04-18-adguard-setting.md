@@ -5,7 +5,6 @@ date: 2024-04-18 14:07:00 +0800
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b1f2b58cb8da5c8caa17f.webp"
-comments: false
 ---
 由于B站的番剧删减的太严重，已经不再续费，而是使用盗版的App来看动漫。网络上有不少此类App，有个我觉得做的比较好的，但无奈广告太多。
 

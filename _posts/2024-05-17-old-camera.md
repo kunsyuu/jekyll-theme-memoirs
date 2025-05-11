@@ -5,7 +5,6 @@ date: 2024-05-17 10:28:00 +0800
 categories: Life
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b1fe658cb8da5c8caa5a8.webp"
-comments: false
 ---
 清理书架时在角落找到了一个佳能的卡片相机220hs，十几年前购买，用来在旅游时拍照用，因为那时候智能手机还没有像现在这样强大，很小巧的相机，比当时的手机拍照要好，但是现在早已被手机超越，我也已经很多年没有用它了。
 

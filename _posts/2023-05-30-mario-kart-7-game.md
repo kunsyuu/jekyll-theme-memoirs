@@ -5,7 +5,6 @@ date: 2023-05-30 14:50:13
 categories: Game
 author: bigsail
 image: "https://pic1.imgdb.cn/item/680b210858cb8da5c8caac9f.webp"
-comments: false
 ---
 最近几年玩的唯一一个联网游戏就是马里奥赛车7，经常没事就拿出3DS玩几局，虽然3DS已经商店停服，但还好任天堂依然保留了游戏联机的服务器，目前依然可以和全世界的玩家共同游玩这个游戏，毕竟单机比较简单，还是要和真人较量才有意思。
 
