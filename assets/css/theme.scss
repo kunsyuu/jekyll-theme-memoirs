@@ -742,3 +742,63 @@ body.active-side {
         }
     }
 }
+
+/* 友情链接样式-紧凑版 */
+.link-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.8rem;
+  padding: 0.5rem;
+}
+
+.link-card {
+  display: block;
+  background: #ffffff;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.08);
+  transition: all 0.25s ease;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  margin: 0.2rem;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+.link-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.12);
+}
+
+.card-content h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.1rem;
+}
+
+.card-content p {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  .link-grid {
+    gap: 0.8rem;
+    padding: 0.5rem;
+  }
+  
+  .link-card {
+    padding: 1rem;
+    margin: 0.1rem;
+  }
+}
+
+/* 优化高光动画 */
+.link-card::after {
+  background: linear-gradient(
+    120deg,
+    rgba(255,255,255,0) 20%,
+    rgba(255,255,255,0.2) 50%,
+    rgba(255,255,255,0) 80%
+  );
+}

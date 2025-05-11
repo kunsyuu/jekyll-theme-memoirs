@@ -1,0 +1,23 @@
+- name: Google
+  url: https://www.google.com/
+  desc:  搜索引擎
+
+- name: GitHub
+  url: https://github.com
+  desc: 代码托管平台
+
+- name: Jekyll
+  url: https://jekyllrb.com/
+  desc: 简洁易用的静态博客生成器
+
+- name: Cloudflare
+  url: https://www.cloudflare.com/
+  desc: 互联网活菩萨
+
+- name: Youtube
+  url: https://www.youtube.com/
+  desc: 视频网站
+
+- name: Twitter
+  url: https://twitter.com/
+  desc: 社交分享平台
