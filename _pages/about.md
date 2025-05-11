@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about
-comments: false
+comments: true
 image: "https://pic1.imgdb.cn/item/680b24ff58cb8da5c8cab22b.webp"
 imageshadow: true
 ---
@@ -13,9 +13,7 @@ imageshadow: true
 
 写作能力太低了，只能写一点流水账。
 
-如有任何需要，欢迎在Contact页面给我留言。
-
-或者直接发送邮件到<kunshuu@proton.me>
+如有任何需要，欢迎在此页面或Contact页面给我留言。
 
 ### #关于我
 

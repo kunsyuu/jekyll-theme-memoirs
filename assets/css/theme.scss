@@ -513,10 +513,10 @@ img, img:hover {
     margin-top:30px;
     margin-bottom:60px;
     #comments {
-        display:none;
+        display:block;
         margin-top:60px;
         &.comments--show {
-            display:block;
+            display:none;
         }
     }
 }
