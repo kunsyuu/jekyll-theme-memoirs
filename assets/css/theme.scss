@@ -802,3 +802,8 @@ body.active-side {
     rgba(255,255,255,0) 80%
   );
 }
+
+/* Twikoo 隐藏留言框头像占位 */
+.tk-row .tk-avatar{
+    display: none;
+}

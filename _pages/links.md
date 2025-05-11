@@ -2,7 +2,7 @@
 layout: page
 title: Links
 permalink: /links
-comments: false
+comments: true
 image: "https://pic1.imgdb.cn/item/681f64bd58cb8da5c8eb7eeb.webp"
 imageshadow: true
 ---
