@@ -743,67 +743,66 @@ body.active-side {
     }
 }
 
-/* 友情链接样式-紧凑版 */
-.link-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 0.8rem;
-  padding: 0.5rem;
-}
-
-.link-card {
-  display: block;
-  background: #ffffff;
-  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.08);
-  transition: all 0.25s ease;
-  text-decoration: none;
-  color: #333;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  margin: 0.2rem;
-  padding: 1rem;
-  border-radius: 6px;
-}
-
-.link-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.12);
-}
-
-.card-content h3 {
-  margin: 0 0 0.4rem;
-  font-size: 1.1rem;
-}
-
-.card-content p {
-  margin: 0;
-  font-size: 0.85rem;
-  line-height: 1.4;
-}
-
-/* 移动端适配 */
-@media (max-width: 768px) {
-  .link-grid {
-    gap: 0.8rem;
-    padding: 0.5rem;
-  }
-  
-  .link-card {
-    padding: 1rem;
-    margin: 0.1rem;
-  }
-}
-
-/* 优化高光动画 */
-.link-card::after {
-  background: linear-gradient(
-    120deg,
-    rgba(255,255,255,0) 20%,
-    rgba(255,255,255,0.2) 50%,
-    rgba(255,255,255,0) 80%
-  );
-}
-
 /* Twikoo 隐藏留言框头像占位 */
 .tk-row .tk-avatar{
     display: none;
 }
+
+/* Links页面 */
+.link-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+
+  .link-card {
+    position: relative;
+    display: block;
+    height: 100px;
+    border-radius: 12px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.7)), var(--bg-img);
+    background-size: cover;
+    background-position: right center;
+    background-repeat: no-repeat;
+    box-shadow: 3px 8px 16px #212529; /* X偏移 Y偏移 模糊度 颜色 */
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+
+    .card-content {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 1.5rem;
+      color: white;
+      z-index: 1;
+
+      h3 {
+        margin: 0 0 0.5rem;
+        font-size: 1.2rem;
+      }
+
+      p {
+        margin: 0;
+        opacity: 0.8;
+        font-size: 0.8rem;
+      }
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(transparent 60%, rgba(0,0,0,0.8));
+    }
+  }
+}
+/* Links页面 End*/

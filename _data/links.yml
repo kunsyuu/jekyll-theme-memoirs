@@ -1,23 +1,29 @@
+- name: Sail's Blog
+  url: https://www.google.com/
+  desc: 一个社恐的博客
+  img: https://img.loliapi.cn/i/pp/img100.webp
+
 - name: Google
   url: https://www.google.com/
-  desc:  搜索引擎
+  desc: 搜索引擎
+  img: https://img.loliapi.cn/i/pc/img139.webp
 
 - name: GitHub
   url: https://github.com
   desc: 代码托管平台
+  img: https://img.loliapi.cn/i/pc/img320.webp
 
 - name: Jekyll
   url: https://jekyllrb.com/
   desc: 简洁易用的静态博客生成器
+  img: https://img.loliapi.cn/i/pc/img235.webp
 
 - name: Cloudflare
   url: https://www.cloudflare.com/
   desc: 互联网活菩萨
+  img: https://img.loliapi.cn/i/pc/img76.webp
 
-- name: Youtube
-  url: https://www.youtube.com/
-  desc: 视频网站
-
-- name: Twitter
-  url: https://twitter.com/
-  desc: 社交分享平台
+- name: 聚合图床
+  url: https://www.superbed.cn/
+  desc: 高速稳定的图片上传和外链服务
+  img: https://img.loliapi.cn/i/pc/img527.webp
