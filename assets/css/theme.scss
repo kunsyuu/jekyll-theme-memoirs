@@ -751,9 +751,23 @@ body.active-side {
 /* Links页面 */
 .link-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
   padding: 2rem;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1200px;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.5rem;
+  }
+
+  @media (max-width: 480px) {
+    grid-template-columns: minmax(280px, 1fr);
+    padding: 1rem;
+    gap: 1rem;
+  }
 
   .link-card {
     position: relative;
