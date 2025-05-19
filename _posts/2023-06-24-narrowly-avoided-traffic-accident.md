@@ -25,7 +25,7 @@ image: "https://pic1.imgdb.cn/item/680b210958cb8da5c8caaca1.webp"
 在网络视频中，同类事故一般会建议“让速不让道”，但人总是本能的想避免事故，若与右侧车相撞只是侧面剐蹭，一般不会导致死亡，但若直接与骑行的人相撞，却极有可能发生致死事故。
 
 <!--![](https://ucarecdn.com/9c8a30d1-25bf-4d49-8908-0304a04ae0be/3201.webp)-->
-![3201.jpg](https://img.ksmoe.eu.org/v2/3crtdOq.jpeg)
+![3201.jpg](https://img.ffu.im/v2/3crtdOq.jpeg)
 
 (行车记录仪时间有误，实际时间在16点50分左右。)
 

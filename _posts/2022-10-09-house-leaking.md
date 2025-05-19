@@ -13,26 +13,26 @@ image: "https://pic1.imgdb.cn/item/680b230758cb8da5c8cab115.webp"
 找物业协调看了下楼上的情况，应该不是楼上防水问题。一天半夜安静的时候，我仔细查看了漏水地方的情况，居然在吊顶处听到了滴水的声音，一滴一滴滴的并不快，但积少成多足以湿半面墙了。也听到了滴水的地方，狠心砸开吊顶，果然发现了原来吊顶上方有给两个卫生间供水的水管，正在不停的滴着水。
 
 <!--![](https://ucarecdn.com/b778a3fe-1a6d-429b-bd10-8e7e3db32421/1601.webp)-->
-![1601.jpg](https://img.ksmoe.eu.org/v2/zonwR8C.jpeg)
+![1601.jpg](https://img.ffu.im/v2/zonwR8C.jpeg)
 
 打开手机手电筒从砸开的洞往里看，才发现原来是吊顶的木板在此处拼接，装吊顶的装修人员未注意内部的水管就打了大量的钉子用于拼接两块木板，导致两根水管中的热水管被打了两个孔，但是这种细钉子打入水管后却不会立刻漏水，而是仍然堵着水管，直到钉子被锈蚀，无法再堵住水管上的这两个孔，就慢慢开始滴水了，一开始滴水的速度很慢很慢，后来越来越快，最终湿了半面墙！这次漏水事故完全是因为四年前装修工人的失误造成，而这个失误又不会当时立刻表现出来，就这样过了四年，终于还是来了。
 
 <!--![](https://ucarecdn.com/668a2b70-244e-4a35-9fb8-b9ff7a01c79d/1602.webp)
 ![](https://ucarecdn.com/5613263b-e677-493d-a8dd-54d60d91131b/1603.webp)-->
-![1602.jpg](https://img.ksmoe.eu.org/v2/ojZBU5B.jpeg)
+![1602.jpg](https://img.ffu.im/v2/ojZBU5B.jpeg)
 
-![1603.jpg](https://img.ksmoe.eu.org/v2/Q4u8vzZ.jpeg)
+![1603.jpg](https://img.ffu.im/v2/Q4u8vzZ.jpeg)
 
 搞清楚漏水的原因那就可以修了，由于空间狭窄自己试了几天都没搞定，只好请了专门修水管的师傅上门，将有孔的一段水管剪掉，热熔接口，再重新用一段水管连接。终于修好了漏水，墙壁也逐渐干燥了。
 
 <!--![](https://ucarecdn.com/0d91a2e2-9b2e-41f3-8ad9-e331aaf85d92/1604.webp)-->
-![1604.jpg](https://img.ksmoe.eu.org/v2/qSN32O1.jpeg)
+![1604.jpg](https://img.ffu.im/v2/qSN32O1.jpeg)
 
 接下来就要自己动手补洞了，毕竟这样小的工程很难请工人。买了一些木板、钉子、补墙速凝粉、乳胶漆。首先将木板按洞的形状锯好，用钉子固定到原来的吊顶中。
 
 速凝粉加水，使用刮片糊到木板上，由于没有做吊顶转角的工艺槽，只能靠手动估计，所有肯定比不上原本的那么整齐。
 
 <!--![](https://ucarecdn.com/b24c50bf-0656-4273-b7d3-497659242f85/1605.webp)-->
-![1605.jpg](https://img.ksmoe.eu.org/v2/eGrwMNq.jpeg)
+![1605.jpg](https://img.ffu.im/v2/eGrwMNq.jpeg)
 
 大概形状差不多了，晾干后打磨平整，再刷乳胶漆就可以了。

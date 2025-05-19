@@ -28,4 +28,4 @@ image: "https://pic1.imgdb.cn/item/680b210858cb8da5c8caac9c.webp"
 没有看过动画，只看过漫画，是很久以前被翻译成“男儿当入樽”的漫画，依然记得看漫画都能看的热血沸腾，看的热泪盈眶。电影也制作的非常优秀，看电影还赠送了海报和一个小册子。
 
 <!--![](https://ucarecdn.com/99f3981b-17f9-4766-8527-d28e3175f63c/2901.webp)-->
-![2901.jpg](https://img.ksmoe.eu.org/v2/RjWv7BJ.jpeg)
+![2901.jpg](https://img.ffu.im/v2/RjWv7BJ.jpeg)
