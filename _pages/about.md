@@ -26,7 +26,7 @@ imageshadow: true
 
 社恐，喜欢安静，喜欢独处。现实生活中话很少，本来就言之无物，而且人到中年，没几个人还有兴趣听你说话。
 
-虽然已经当爹，但仍然是个宅男，是个随处可见的社会底层普通人，思想肤浅，头脑简单。
+虽然已婚并当爹，但仍然是个宅男，是个随处可见的社会底层普通人，思想肤浅，头脑简单。
 
 年龄和体重在不断增加，空有年龄却没什么内在，因为我只是一个被时间推着长大的小孩。
 
@@ -38,10 +38,10 @@ imageshadow: true
 
 网站的响应速度可能比较慢，急性子慎入，但应该还在正常的忍受范围内吧。不妨让生活慢下来，无必要那么快的节奏。
 
-博客程序：[Jekyll](https://jekyllrb.com/){:target="_blank"}
-
-主题：[Memoirs](https://github.com/wowthemesnet/jekyll-theme-memoirs){:target="_blank"}
-
-服务器：[Cloudflare](https://www.cloudflare.com/){:target="_blank"}
-
-封面图片：[Unsplash](https://unsplash.com/){:target="_blank"}
+> 博客程序：[Jekyll](https://jekyllrb.com/){:target="_blank"}
+>
+> 主题：[Memoirs](https://github.com/wowthemesnet/jekyll-theme-memoirs){:target="_blank"}
+>
+> 服务器：[Cloudflare](https://www.cloudflare.com/){:target="_blank"}
+>
+> 封面图片：[Unsplash](https://unsplash.com/){:target="_blank"}
