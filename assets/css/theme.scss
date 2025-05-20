@@ -748,6 +748,10 @@ body.active-side {
 .tk-row .tk-avatar{
     display: none;
 }
+/* Twikoo 解决回复其他评论时头像被压缩 */
+.tk-replies .tk-avatar .tk-avatar-img {
+    vertical-align: top !important;
+}
 
 /* Links页面 */
 .link-grid {
