@@ -3,10 +3,10 @@ name: "Sail's Blog"
 title: "Sail's Blog"
 description: "Here is Sail's Blog. Welcome!"
 logo: 'assets/images/sail.png'
-favicon: 'assets/images/rudder.png'
+favicon: 'assets/images/favicon-32x32.png'
 baseurl: ''
 google_analytics: ''
-disqus: 'demowebsite'
+disqus: '####demowebsite'
 # mailchimp-list: ''
 include: ["_pages"]
 permalink: /posts/:title
