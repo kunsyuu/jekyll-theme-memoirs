@@ -10,7 +10,7 @@ imageshadow: true
 
 ```yaml
 - name: Sail's Blog
-  url: https://ffu.im/
+  url: https://warn.im/
   desc: 一个社恐的博客
   img: https://img.loliapi.cn/i/pp/img100.webp
   ```
