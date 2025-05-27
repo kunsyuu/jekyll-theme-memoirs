@@ -21,7 +21,7 @@ AdGuard在使用时并不需要把所有防护方式全部打开。经过测试�
 二是“浏览安全”。
 
 <!--![](https://ucarecdn.com/91a4e11a-a056-46d1-85bd-1e2d6b94d18b/4201.webp)-->
-![4201.jpg](https://img.ffu.im/v2/WckH6Ok.jpeg)
+![4201.jpg](https://img.warn.im/v2/WckH6Ok.jpeg)
 
 另外在“通用---高级设置---低级设置”中，应将“adblock式规则的拦截模式”和“主机规则的拦截模式”设置为“自定义IP地址”，IPv4地址填写"127.0.0.1"，IPv6地址填写"::1"，可以避免被阻止的广告反复请求产生大量流量。
 

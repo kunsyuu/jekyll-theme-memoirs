@@ -4,7 +4,7 @@ title: 申请了新的域名warn.im
 date: 2025-05-19 18:31:00 +0800
 categories: Life
 author: bigsail
-image: "https://img.ffu.im/v2/yazsfMA.jpeg"
+image: "https://img.warn.im/v2/yazsfMA.jpeg"
 ---
 我的博客一直以来都是使用免费的*.eu.org域名，但是现在不太容易访问了，有ssl证书的话电信网络目前还可以访问，但移动网络已经阻断了这种域名，所以就需要申请个可以正常访问的付费域名。
 

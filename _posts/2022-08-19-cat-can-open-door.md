@@ -9,7 +9,7 @@ image: "https://pic1.imgdb.cn/item/680b240f58cb8da5c8cab1a7.webp"
 由于猫的掉毛属性，卧室一直对猫仔是个禁地，每天关着卧室门，猫仔反而好奇起来，卧室里面到底是什么？人躲在里面干什么？每天晚上睡觉前，猫仔总是不安分，对于猫来说，晚上正是精力充沛的时候，希望人陪着它玩，但人却要关上门睡觉了。每天看人开门关门的方法，居然学会了开门，这猫还是有点智商的，开门成功率也越来越高。开门之后就迅速窜到床底下赖着不出来了。
 
 <!--![](https://ucarecdn.com/68f52755-032e-4586-8564-e4531fd54865/1301.webp)-->
-![1301.jpg](https://img.ffu.im/v2/0p6nleL.jpeg)
+![1301.jpg](https://img.warn.im/v2/0p6nleL.jpeg)
 
 若是不反锁门的话，随时都会开门进来，早上还没醒，猫仔就自己进来叫人起床了。甚至即使卧室没人，猫也会因为好奇开门进去。不得不想办法让猫开不了门了。
 
@@ -19,9 +19,9 @@ image: "https://pic1.imgdb.cn/item/680b240f58cb8da5c8cab1a7.webp"
 
 <!--![](https://ucarecdn.com/96117a0c-7dfb-49f7-b6f1-e8557e9310f8/1302.webp)
 ![](https://ucarecdn.com/a4bd6d12-f5e8-4ccd-9328-7480930b8ecb/1303.webp)-->
-![1302.jpg](https://img.ffu.im/v2/aswzFBq.jpeg)
+![1302.jpg](https://img.warn.im/v2/aswzFBq.jpeg)
 
-![1303.jpg](https://img.ffu.im/v2/So9UUR8.jpeg)
+![1303.jpg](https://img.warn.im/v2/So9UUR8.jpeg)
 
 贴上之后，猫仔打不开门了，板下面留了一点缝隙以方便手指伸进去开门，但猫是无法精准的伸爪子进去开门的。
 
@@ -30,7 +30,7 @@ image: "https://pic1.imgdb.cn/item/680b240f58cb8da5c8cab1a7.webp"
 没想到猫的智商还是挺高的，过一段时间便通过反复练习又掌握了开门的诀窍。只好考虑新的应对方法。
 
 <!--![](https://ucarecdn.com/c3ddc621-1b0d-4020-8e1f-cf30ef20dd24/1304.webp)-->
-![1304.jpg](https://img.ffu.im/v2/qu1SfZ8.jpeg)
+![1304.jpg](https://img.warn.im/v2/qu1SfZ8.jpeg)
 
 买了个插座防水盒，把侧面开个洞，贴到锁上。由于顶部为圆弧状，猫爪无法攀爬，无法立足便无法发力开门了。
 
