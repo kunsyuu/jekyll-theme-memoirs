@@ -825,3 +825,26 @@ body.active-side {
   }
 }
 /* Links页面 End*/
+
+/* Archive页面 */
+.archive-year {
+  margin-bottom: 2em;
+}
+
+.year-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+}
+
+.archive-posts {
+  list-style: none;
+  padding-left: 0;
+}
+
+.archive-posts .post-date {
+  display: inline-block;
+  width: 4.5em;
+  color: #666;
+}
+/* Archive页面 End */
