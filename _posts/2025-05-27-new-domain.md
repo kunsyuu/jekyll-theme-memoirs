@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 申请了新的域名warn.im
-date: 2025-05-19 18:31:00 +0800
+date: 2025-05-27 18:31:00 +0800
 categories: Life
 author: bigsail
 image: "https://img.warn.im/v2/yazsfMA.jpeg"
