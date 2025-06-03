@@ -23,7 +23,11 @@ body, input, button, select, optgroup, textarea {
 }
 body {
     line-height:1.7;
-    background: #f4f4f4;
+    //background: #f4f4f4;
+    // 增加背景网格
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACFJREFUeNpiZGBg4GegAsBlCD8TqSYNQg2Mo6FEBAAIMACdPABtrSW/IQAAAABJRU5ErkJggg==");
+    background-repeat: repeat;
+    background-attachment: fixed;
 }
 a {
     color: darken($primary, 24%);
