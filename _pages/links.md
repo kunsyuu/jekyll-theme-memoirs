@@ -6,15 +6,6 @@ comments: true
 ;image: "https://pic1.imgdb.cn/item/681f64bd58cb8da5c8eb7eeb.webp"
 imageshadow: true
 ---
-如果你愿意的话，欢迎留下信息添加友情链接。你的网站任何题材均可，有不断更新的内容就行。
-
-```yaml
-- name: Sail's Blog
-  url: https://warn.im/
-  desc: 一个社恐的博客
-  img: https://img.loliapi.cn/i/pp/img100.webp
-  ```
-
 <div class="link-grid">
   {% for link in site.data.links %}
     <a href="{{ link.url }}" 
@@ -29,3 +20,12 @@ imageshadow: true
     </a>
   {% endfor %}
 </div>
+
+如果你愿意的话，欢迎留下信息添加友情链接。你的网站有持续更新内容就行。
+
+```yaml
+- name: Sail's Blog
+  url: https://warn.im/
+  desc: 一个社恐的博客
+  img: https://img.loliapi.cn/i/pp/img122.webp
+  ```

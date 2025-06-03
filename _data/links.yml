@@ -1,7 +1,7 @@
 - name: Sail's Blog
   url: https://warn.im/
   desc: 一个社恐的博客
-  img: https://img.loliapi.cn/i/pp/img100.webp
+  img: https://img.loliapi.cn/i/pp/img122.webp
 
 - name: Google
   url: https://www.google.com/
@@ -21,9 +21,5 @@
 - name: Cloudflare
   url: https://www.cloudflare.com/
   desc: 互联网活菩萨
-  img: https://img.loliapi.cn/i/pc/img76.webp
+  img: https://img.loliapi.cn/i/pc/img147.webp
 
-- name: 聚合图床
-  url: https://www.superbed.cn/
-  desc: 高速稳定的图片上传和外链服务
-  img: https://img.loliapi.cn/i/pc/img527.webp
