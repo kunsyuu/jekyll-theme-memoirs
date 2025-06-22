@@ -846,9 +846,33 @@ body.active-side {
   padding-left: 0;
 }
 
-.archive-posts .post-date {
+.archive-posts .post-item {
+  display: flex; /* 使用flex布局保持日期和标题同行 */
+  margin-bottom: 0.5em;
+}
+
+.archive-posts .post-item .post-meta {
+  flex: 0 0 auto; /* 固定宽度区域 */
+  width: 5em; /* 与日期宽度匹配 */
+}
+
+.archive-posts .post-item .post-title {
+  flex: 1; /* 占据剩余宽度 */
+  text-indent: 0; /* 重置缩进 */
+  padding-left: 0.5em; /* 添加间距 */
+}
+
+/* 多行对齐的关键 */
+.archive-posts .post-item .post-title a {
+  display: inline-block; /* 保持内联特性 */
+  text-indent: 0; 
+  margin-left: -0.5em; /* 补偿左侧间距 */
+}
+
+.archive-posts .post-item .post-meta .post-date {
   display: inline-block;
   width: 4.5em;
   color: #666;
+  text-align: right; /* 日期右对齐 */
 }
 /* Archive页面 End */

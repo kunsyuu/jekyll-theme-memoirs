@@ -20,14 +20,19 @@ comments: false
       <ul class="archive-posts">
         {% comment %} 年度文章按日期降序排列 % for post in year.items reversed % {% endcomment %}
         {% for post in year.items %}
-          <li>
-            <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
-              {{ post.date | date: "%m-%d" }}
-            </time>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+          <li class="post-item">
+            <div class="post-meta">
+              <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%m-%d" }}
+              </time>
+            </div>
+            <div class="post-title">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </div>
           </li>
         {% endfor %}
       </ul>
+      
     </div>
   {% endfor %}
 </div>
