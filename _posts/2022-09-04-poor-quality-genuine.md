@@ -4,7 +4,7 @@ title: 所谓“正版”
 date: 2022-09-04 10:44:54
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b230758cb8da5c8cab116.webp"
+image: "https://cdn.nodeimage.com/i/6spxVjWD5VudtP8s3h3gl53sPow98hjS.webp"
 ---
 
 我很感谢那些在线视频网站，确实让看动漫、电影方便了很多，以前要靠BT下载才能看，现在打开网页就能看，而且还是合法引进的正版视频。在B站开了好几年的年度大会员了，但近两年发现正版的体验却不断下降。

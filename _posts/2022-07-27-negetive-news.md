@@ -4,7 +4,7 @@ title: 勿沉迷于负面新闻
 date: 2022-07-27 22:45:46
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b23ba58cb8da5c8cab181.webp"
+image: "https://cdn.nodeimage.com/i/RVh2KOF8zKctSKgCe2JXwelVjY13mq3E.webp"
 ---
 
 负面新闻的传播范围、影响力总是远远大于那些普通新闻，负面新闻在感官上也明显比普通新闻更具有刺激感、兴奋感、情绪也更容易被挑拨调动起来。例如网络上的各种逢中必反、双重标准。

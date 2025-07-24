@@ -4,7 +4,7 @@ title: 如何防止猫自己开门
 date: 2022-08-19 22:26:29
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b240f58cb8da5c8cab1a7.webp"
+image: "https://cdn.nodeimage.com/i/p570j0nPzBz2G6G9Z1fRlRu3wu97bnV7.webp"
 ---
 由于猫的掉毛属性，卧室一直对猫仔是个禁地，每天关着卧室门，猫仔反而好奇起来，卧室里面到底是什么？人躲在里面干什么？每天晚上睡觉前，猫仔总是不安分，对于猫来说，晚上正是精力充沛的时候，希望人陪着它玩，但人却要关上门睡觉了。每天看人开门关门的方法，居然学会了开门，这猫还是有点智商的，开门成功率也越来越高。开门之后就迅速窜到床底下赖着不出来了。
 

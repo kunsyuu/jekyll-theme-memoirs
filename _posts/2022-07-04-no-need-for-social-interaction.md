@@ -4,7 +4,7 @@ title: 无用社交
 date: 2022-07-04 23:41:00
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b23ba58cb8da5c8cab182.webp"
+image: "https://cdn.nodeimage.com/i/A93LfoCAy7URaWqHFYfzZo8b5GwskNBa.webp"
 ---
 并不想给自己贴个社恐的标签，因为自己不知道自己是不是社恐，只是不愿意与人打交道而已。
 
