@@ -4,7 +4,7 @@ title: 重温上古卷轴5天际
 date: 2023-02-04 13:36:50
 categories: Game
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b22c058cb8da5c8cab0f2.webp"
+image: "https://cdn.nodeimage.com/i/FagOgn7NYQujFOdcXcCq48UuFhE03d9m.webp"
 ---
 
 最近突然想起了这个曾经玩了几百个小时的游戏——上古卷轴5天际，记得多年前那时候我的笔记本电脑配置只能勉强的以中低画面效果玩这个游戏，最开始第一次玩的时候不会看地图，不会看任务标记，稀里糊涂就和雪漫的卫兵打起来了，玩的莫名其妙的一度想放弃。

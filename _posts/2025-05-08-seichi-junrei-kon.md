@@ -4,7 +4,7 @@ title: 圣地巡礼之KON轻音少女
 date: 2025-05-08 22:20:00 +0800
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/681cc85758cb8da5c8e66eaf.webp"
+image: "https://cdn.nodeimage.com/i/JFEn2aiBoxNR2drtmPsBRg3B3lgzdV0N.webp"
 ---
 轻音少女是给我留下非常深刻印象的一部动漫，好像就是从这部动漫起让我意识到原来动漫可以如此优秀，人物感情可以如此细腻，日常的故事可以如此感人。后来看到一个词叫做“入宅作”，那这部动漫应该就是我的入宅作了。
 

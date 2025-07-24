@@ -4,7 +4,7 @@ title: 险些发生的交通事故
 date: 2023-06-24 22:58:47
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b210958cb8da5c8caaca1.webp"
+image: "https://cdn.nodeimage.com/i/NGjKgBMvCsfHLniq9sweYc5Iury7FuOX.webp"
 ---
 记录几次险些遭遇的交通事故。平时经常在网上看车祸视频，想从中吸取一些教训，但每天都能在视频中看到同类的事故总是在不断上演。而事故总是有可能发生在任何一个“没注意到”的瞬间。
 

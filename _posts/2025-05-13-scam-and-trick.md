@@ -4,7 +4,7 @@ title: 记录下这些年遇到的套路
 date: 2025-05-13 11:19:00 +0800
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/682306a958cb8da5c8f01b92.webp"
+image: "https://cdn.nodeimage.com/i/MvxYpyoUCpMXsl9DZVq2Ytv5HXoAeNfT.webp"
 ---
 难免会遇到一些不好的事情，不过还好没有遇到较大的损失，都不是一些大事，但是每次回想起来，依然觉得有点气。
 

@@ -4,7 +4,7 @@ title: 连看了两场演唱会
 date: 2023-12-20 22:35:39
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b21da58cb8da5c8cab05d.webp"
+image: "https://cdn.nodeimage.com/i/araEd35Q8VldXxXd1L2oMOICzixVl2fB.webp"
 ---
 今年到处都有各种各样的演唱会，就和老婆选了两个想看的歌手，去看了两场。
 
@@ -16,7 +16,7 @@ image: "https://pic1.imgdb.cn/item/680b21da58cb8da5c8cab05d.webp"
 12月9号又去肇庆去看了张韶涵演唱会，都是成名多年的歌手了，实力没得说。只是一些经典歌曲会唱一半举着话筒让观众唱，我觉得我是来听你唱歌的，不是听台下观众唱的，且唱了不到2个半小时即结束，并不是很尽兴。两场座位位置都差不多，但比杨千嬅那场一张票便宜200元，但体育场没有跑道，距离看起来还更近了。
 
 <!--![](https://ucarecdn.com/58781ff2-6a52-4cce-af9d-ea2dd8b07070/20231220.webp)-->
-![](https://pic1.imgdb.cn/item/680b21da58cb8da5c8cab05d.webp)
+![22](https://cdn.nodeimage.com/i/araEd35Q8VldXxXd1L2oMOICzixVl2fB.webp)
 
 看过演唱会并没有立刻回家，住了一夜，第二天又去了鼎湖山，很久以前来过一次，不过已经忘了是什么样子了。并不是很推荐去，因为门票70元一张确实是比较不值的。
 

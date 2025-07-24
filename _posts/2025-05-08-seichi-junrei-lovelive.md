@@ -4,7 +4,7 @@ title: 圣地巡礼之LoveLive
 date: 2025-05-08 21:50:00 +0800
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/681cc85858cb8da5c8e66eb1.webp"
+image: "https://cdn.nodeimage.com/i/uEJbw3c39QyTTyKw6eFcBgFwYDsijXL6.webp"
 ---
 整理一下过去的一些照片，自己觉得挺有意义的。LoveLive的圣地巡礼位置主要是在神田明神、秋叶原、东京DOME、国府津、根府川。
 

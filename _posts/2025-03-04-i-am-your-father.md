@@ -4,7 +4,7 @@ title: 我成为父亲了
 date: 2025-03-04 11:22:00 +0800
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b18b258cb8da5c8ca81f5.webp"
+image: "https://cdn.nodeimage.com/i/iTGbmsftzId0t6xRP8AD0HQPMuPv8fTv.webp"
 ---
 老婆去年6月怀孕，在确认怀孕、确定了产检医院后，这大半年基本就是以怀孕这件事为中心了。
 

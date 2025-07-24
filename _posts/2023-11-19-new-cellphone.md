@@ -4,7 +4,7 @@ title: 不到两千的手机
 date: 2023-11-19 21:04:30
 categories: Life
 author: bigsail
-image: "https://pic1.imgdb.cn/item/680b21da58cb8da5c8cab05c.webp"
+image: "https://cdn.nodeimage.com/i/DIXT8xmaW9WEUksbEb2YQuVhzDzMSLNH.webp"
 ---
 不知为何，之前用的连续两个手机都在使用了几年后出现了导航无法定位的情况，在开车时感觉影响安全了，于是决定买个新的手机。
 
