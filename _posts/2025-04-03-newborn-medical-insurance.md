@@ -12,4 +12,6 @@ image: "https://cdn.nodeimage.com/i/REZTyv10eAvjelECEFRYSmRF73ssSGYn.webp"
 
 在住了24天院后，终于通知可以在3月21日出院了。我之前一直挺担心住院费用的问题，还好因为提前给孩子购买了未成年人医保得以缓解一些压力。
 
+![NybxKiPhdcwl8lfRiuoTRXCAXqZJLQPT.webp](https://cdn.nodeimage.com/i/NybxKiPhdcwl8lfRiuoTRXCAXqZJLQPT.webp)
+
 在怀孕时就已经可以在本地的社保小程序上，先以母亲的名义为孩子购买医保了，今年的价格是390元一年，在出生后给孩子办理住院时要出示母亲的身份证，告知医院收费处有购买医保，出院的时候就直接结算了，无需自己先垫付。最终总费用46000左右，自费7000多元。如果没有医保的话，的确是一个较大的开销了。
