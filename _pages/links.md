@@ -27,5 +27,5 @@ imageshadow: true
 - name: Sail's Blog
   url: https://warn.im/
   desc: 一个社恐的博客
-  img: https://img.loliapi.cn/i/pp/img122.webp
+  img: https://img.loliapi.com/i/pp/img122.webp
   ```
