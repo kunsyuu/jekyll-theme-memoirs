@@ -1,25 +1,25 @@
 - name: Sail's Blog
   url: https://warn.im/
   desc: 一个社恐的博客
-  img: https://img.loliapi.cn/i/pp/img122.webp
+  img: https://img.loliapi.com/i/pp/img122.webp
 
 - name: Google
   url: https://www.google.com/
   desc: 搜索引擎
-  img: https://img.loliapi.cn/i/pc/img139.webp
+  img: https://img.loliapi.com/i/pc/img139.webp
 
 - name: GitHub
   url: https://github.com
   desc: 代码托管平台
-  img: https://img.loliapi.cn/i/pc/img320.webp
+  img: https://img.loliapi.com/i/pc/img320.webp
 
 - name: Jekyll
   url: https://jekyllrb.com/
   desc: 简洁易用的静态博客生成器
-  img: https://img.loliapi.cn/i/pc/img235.webp
+  img: https://img.loliapi.com/i/pc/img235.webp
 
 - name: Cloudflare
   url: https://www.cloudflare.com/
   desc: 互联网活菩萨
-  img: https://img.loliapi.cn/i/pc/img147.webp
+  img: https://img.loliapi.com/i/pc/img147.webp
 
